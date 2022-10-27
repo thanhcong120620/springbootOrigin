@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8"/>
+<title>Trang chủ</title>
+</head>
+<body>
+<div align="center">
+
+	<h1>${testApi}</h1>
+		Total Items: [[${testApi}]]
+
+<h1>Test vòng lặp với List String</h1>
+<table>
+	<tr><th>abc</th></tr>
+	<tr th:each="abc : ${list}">
+		<td th:text="${abc}">abc</td>
+	</tr>
+</table>
+
+
+
+</div>   
+</body>
+</html>

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 17.0.4
+Implementation-Title: news
+Implementation-Version: 1.0
+Implementation-Vendor-Id: laptrinhjavaweb
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/news
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 17.0.4
+Implementation-Title: doAnTN
+Implementation-Version: 1.0
+Implementation-Vendor-Id: congfx15905
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/doAnTN
+Created-By: Maven Integration for Eclipse
+
